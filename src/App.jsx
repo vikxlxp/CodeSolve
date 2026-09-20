@@ -386,7 +386,7 @@ function Pricing() {
         <div className="cs-price-card">
           <div className="cs-price">{PRICE_TEXT}</div>
           <div className="cs-per">per unit</div>
-          <div className="cs-formula">1 Unit = 1 Coding Problem</div>
+          <div className="cs-formula">Contact us on WhatsApp for pricing</div>
 
           <ul className="cs-checks">
             {PRICE_FEATURES.map((f) => (
